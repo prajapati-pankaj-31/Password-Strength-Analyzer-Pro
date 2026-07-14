@@ -6,6 +6,34 @@ A modern, responsive web application that helps users create secure passwords th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
+---
+
+## 📸 Screenshots
+
+### 🔐 Good Password Analysis (Dark Mode)
+
+![Good Password Analysis](screenshots/good-password-dark.png)
+
+---
+
+### ⚠️ Weak Password Detection
+
+![Weak Password Detection](screenshots/weak-password-dark.png)
+
+---
+
+### 🎲 Generate Secure Password
+
+![Generate Secure Password](screenshots/generate-secure-password.png)
+
+---
+
+### 🌙 Light Theme
+
+![Light Theme](screenshots/light-theme.png)
+
+---
+
 ## Features
 
 - **Real-time password strength analysis** — Instant feedback as you type
